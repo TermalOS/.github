@@ -34,3 +34,10 @@ are encrypted locally and never leave your machine.
 
 > Free forever for one server and one user. Any donation on Buy Me a Coffee - even a single coffee -
 > unlocks a Lifetime Pro license, as a thank-you.
+
+### Feedback &amp; support
+
+- 🐞 Found a bug? [Open an issue](https://github.com/TermalOS/feedback/issues/new/choose).
+- 💡 Have an idea? [Request a feature](https://github.com/TermalOS/feedback/issues/new/choose).
+- 💬 A question? Head to [Discussions](https://github.com/TermalOS/feedback/discussions).
+- 🔒 Security issue? Report it privately via the [security policy](https://github.com/TermalOS/.github/blob/main/SECURITY.md).
