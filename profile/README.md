@@ -1,7 +1,8 @@
 <h1 align="center">Termal OS</h1>
 
 <p align="center"><strong>Your Linux servers, as a desktop.</strong><br>
-Agentless &amp; local-first supervision and administration over plain SSH.</p>
+Agentless &amp; local-first supervision and administration over plain SSH.<br>
+Shared hosting, a VPS or a dedicated box - all it takes is SSH access, no root required.</p>
 
 <p align="center">
   <a href="https://termalos.com">Website</a> ·
@@ -13,8 +14,8 @@ Agentless &amp; local-first supervision and administration over plain SSH.</p>
 ---
 
 **Termal OS** is a desktop app (Windows, macOS, Linux) that turns your Linux fleet into a real
-desktop over SSH - no agent to install on your servers, no cloud in the middle. Your credentials
-are encrypted locally and never leave your machine.
+desktop over SSH. Shared hosting, a VPS or a dedicated server - no agent to install, no root
+required, no cloud in the middle. Your credentials are encrypted locally and never leave your machine.
 
 ### What it does
 
